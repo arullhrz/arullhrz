@@ -2,7 +2,7 @@
 
 <img src="./assets/avatar.png" width="150" alt="RullVelion Musang Pixel Avatar">
 
-# RullVelion
+# arullhrz
 
 Roblox Studio Developer · Termux Node.js / Python · Indonesia
 
@@ -18,7 +18,7 @@ Roblox Studio Developer · Termux Node.js / Python · Indonesia
 
 <img
   src="https://streak-stats.demolab.com?user=arullhrz&theme=dark&hide_border=true&background=0D1117&ring=6EA8FE&fire=6EA8FE&currStreakLabel=C9D1D9&sideNums=6EA8FE&currStreakNum=C58AF9&sideLabels=8B949E&dates=5B6270"
-  alt="RullVelion GitHub Streak">
+  alt="arullhrz GitHub Streak">
 
 <br><br>
 
