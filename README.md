@@ -69,6 +69,6 @@ The official GitHub contribution calendar is also displayed automatically below 
 
 <div align="center">
 
-### Thanks for visiting my profile 👋
+### Thanks for visiting my profile.
 
 </div>
