@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="150" alt="RullVelion Musang Pixel Avatar">
+<img src="./assets/avatar.png" width="150" alt="arullhrz Avatar">
 
 # arullhrz
 
@@ -13,12 +13,6 @@ Roblox Studio Developer · Termux Node.js / Python · Indonesia
 <img src="./assets/nodejs.svg" width="58" alt="Node.js">
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/python.svg" width="58" alt="Python">
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=arullhrz&theme=dark&hide_border=true&background=0D1117&ring=6EA8FE&fire=6EA8FE&currStreakLabel=C9D1D9&sideNums=6EA8FE&currStreakNum=C58AF9&sideLabels=8B949E&dates=5B6270"
-  alt="arullhrz GitHub Streak">
 
 <br><br>
 
