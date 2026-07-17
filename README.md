@@ -32,7 +32,7 @@
 
 <br><br>
 <img
-  src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-7-238636?style=for-the-badge&logo=github&logoColor=white"
+  src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-8-238636?style=for-the-badge&logo=github&logoColor=white"
   alt="Public repositories">
 
 <img src="https://img.shields.io/github/followers/arullhrz?label=FOLLOWERS&style=for-the-badge&color=1f6feb&logo=github"
