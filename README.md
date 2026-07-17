@@ -31,10 +31,15 @@
 </a>
 
 <br><br>
+<img
+  src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-7-238636?style=for-the-badge&logo=github&logoColor=white"
+  alt="Public repositories">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farullhrz&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=238636&style=for-the-badge&logo=github&logoColor=white" alt="Public repositories">
-<img src="https://img.shields.io/github/followers/arullhrz?label=FOLLOWERS&style=for-the-badge&color=1f6feb&logo=github" alt="GitHub followers">
-<img src="https://komarev.com/ghpvc/?username=arullhrz&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/arullhrz?label=FOLLOWERS&style=for-the-badge&color=1f6feb&logo=github"
+  alt="GitHub followers">
+
+<img src="https://komarev.com/ghpvc/?username=arullhrz&label=PROFILE%20VIEWS&color=111111&style=for-the-badge"
+  alt="Profile views">
 
 </div>
 
