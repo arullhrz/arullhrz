@@ -2,7 +2,7 @@
 
 <img src="./assets/avatar.png" width="150" alt="arullhrz Pixel Musang Avatar">
 
-# arullhrz
+# Hi, I'm Arull 👋
 
 ### Roblox Studio Developer · Termux Node.js / Python · Indonesia
 
